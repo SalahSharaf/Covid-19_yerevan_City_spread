@@ -6,4 +6,5 @@
 ###  numpy,  pandas, matplotlib, geopandas, osmnx, contextily, descartes ,shapely
 
 ## Data
-### the data provided by the Nature communication from kaggle
+### the data provided by the Nature communication from kaggle about corona spread
+
