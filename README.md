@@ -21,11 +21,11 @@
 
 <br/>
 
-[**yerevane covid-19 spread image1**](https://github.com/[SalahSharaf]/[19_yerevan_City_spread]/blob/[main]/the_final_result_img.jpg?raw=true)
+![the_final_result_img](https://user-images.githubusercontent.com/33465920/142003751-2890673c-a534-4626-b599-ff1392068813.JPG)
 
 <br/>
 
-[**yerevane covid-19 spread image2**](https://github.com/[SalahSharaf]/[19_yerevan_City_spread]/blob/[main]/the_final_result_img2.jpg?raw=true)
+![the_final_result_img_2](https://user-images.githubusercontent.com/33465920/142003763-66d8ae20-1f0e-44c5-8c91-1f8d7eab082a.JPG)<br/>
 
 <br/>
 
